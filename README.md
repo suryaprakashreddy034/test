@@ -1,3 +1,129 @@
+# Cohort FT-011121
+
+<details>
+<summary style="font-weight:bold;">Phase 1</summary>
+    
+## Phase 1 Topic 01 - Getting Started with Data Science
+
+* Data Science 
+    - [DataScienceIntro.ipynb](DataScienceBasics/DataScienceIntro.ipynb)
+
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|Introduction to Data Science            | 2021-01-11 | [youtu.be/R7pM6SluD60](https://youtu.be/R7pM6SluD60) |
+
+## Phase 1 Topic 02 - Bash and Git
+
+* Bash
+    - [command_line_basics.ipynb](CommandLine/Unix/command_line_basics.ipynb)
+* Git \& GitHub
+    - [git_intro.ipynb](Git/git_intro.ipynb)
+    - [github.ipynb](Git/github.ipynb)
+    - [Git Tools](Git/Tools)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|Command Line Basics                     | 2021-01-11 | [youtu.be/fjZFp2oTveg](https://youtu.be/fjZFp2oTveg) |
+|Intro to Using Git with GitHub          | 2021-01-12 | [youtu.be/GGh9X5Iby10](https://youtu.be/GGh9X5Iby10) |    
+
+
+## Phase 1 Topic 03 - Control Flow, Functions, and Statistics
+
+* Python 
+    - [core_python.ipynb](CodingBasics/Python/core_python.ipynb)
+* Coding Conventions
+    - [coding_best_practices.ipynb](CodingBasics/CodingConventions/coding_best_practices.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------| 
+|Python Conventions \& Best Practices    | 2021-01-11 | [youtu.be/3YxS_5dW3aY](https://youtu.be/3YxS_5dW3aY) |
+|Python Basics                           | 2021-01-11 | [youtu.be/0ffOdnVmjHg](https://youtu.be/0ffOdnVmjHg) |
+|Some More Python Basics: Control Flow   | 2021-01-12 | [youtu.be/iLrqpbZvWb0](https://youtu.be/iLrqpbZvWb0) |
+|More Python: Functions                  | 2021-01-13 | [youtu.be/FrklluKZWHw](https://youtu.be/FrklluKZWHw) |
+
+    
+## Phase 1 Topic 04 - Python Libraries: Numpy and Pandas
+
+* NumPy 
+    - [intro_to_numpy.ipynb](CodingBasics/NumPy/intro_to_numpy.ipynb)
+    - [numpy_intro_activity.ipynb](CodingBasics/NumPy/numpy_intro_activity.ipynb)
+* Pandas
+    - [from_numpy_to_pandas.ipynb](DataScienceBasics/Pandas/from_numpy_to_pandas.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------| 
+|Intro to NumPy                          | 2021-01-13 | [youtu.be/-z-n8Hrtvl8](https://youtu.be/-z-n8Hrtvl8) |
+|Intro to Pandas from NumPy              | 2021-01-15 | [youtu.be/S7p2w4cXc9o](https://youtu.be/S7p2w4cXc9o) |
+    
+## Phase 1 Topic 05 - Data Cleaning in Pandas
+
+* Data Cleaning
+    - [manipulating_data.ipynb](DataScienceBasics/Pandas/manipulating_data.ipynb)
+    - [exploring_data.ipynb](DataScienceBasics/Pandas/exploring_data.ipynb)
+    - [data_cleaning_with_pandas_overview.ipynb](DataScienceBasics/Pandas/data_cleaning_with_pandas_overview.ipynb)
+* Aggregation
+    - [aggregation.ipynb](DataScienceBasics/Pandas/aggregation.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------| 
+|More Pandas: Exploring and Manipulating Data | 2021-01-19 | [youtu.be/m67HtpXYv3U](https://youtu.be/m67HtpXYv3U) |
+ 
+
+## Phase 1 Topic 06 - Data Visualization
+
+* Warmup
+    - [visualization_warmup.ipynb](DataScienceBasics/Visualization/visualization_warmup.ipynb)
+* Data Visualization
+    - [motivation.ipynb](DataScienceBasics/Visualization/motivation.ipynb)
+    - [how_to_use_visualizations.ipynb](DataScienceBasics/Visualization/how_to_use_visualizations.ipynb)
+    - [good_visualizations.ipynb](DataScienceBasics/Visualization/good_visualizations.ipynb)
+    - [down_with_pie_chart.ipynb](DataScienceBasics/Visualization/down_with_pie_chart.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------| 
+|Concepts of Data Visualization          | 2021-01-20 | [youtu.be/AxlWpplunVo](https://youtu.be/AxlWpplunVo) |
+
+
+## Phase 1 Topic 07 - SQL and Relational Databases \& Phase 1 Topic 08 - Other Database Structures
+
+* SQL
+    - [intro_to_sql.ipynb](DataEngineering/SQL/intro_to_sql.ipynb)
+    - [using_sql.ipynb](DataEngineering/SQL/using_sql.ipynb)
+    - [sql_lesson.ipynb](DataEngineering/SQL/sql_lesson.ipynb)
+    - [sql_exercises.ipynb](DataEngineering/SQL/sql_exercises.ipynb)
+    - [joins.ipynb](DataEngineering/SQL/joins.ipynb)
+    - [advanced_topics.ipynb](DataEngineering/SQL/advanced_topics.ipynb)
+* SQLite
+    - [sqlalchemy.ipynb](DataEngineering/SQLite/sqlalchemy.ipynb)
+    - [sqlite.ipynb](DataEngineering/SQLite/sqlite.ipynb)    
+* NoSQL
+    - [nosql_intro.ipynb](DataEngineering/NoSQL/nosql_intro.ipynb)
+    - [mongodb.ipynb](DataEngineering/NoSQL/mongodb.ipynb) 
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------| 
+|SQL with Python \& Pandas               | 2021-01-22 | [youtu.be/VFN89HOa9m0](https://youtu.be/VFN89HOa9m0) |
+
+
+</details>
+
+----------------------------
+
+
 # Curriculum (v2.1)
 
 <details>
@@ -537,6 +663,14 @@ Derivatives
     - [ensemble_methods.ipynb](MachineLearning/Ensembles/ensemble_methods.ipynb)
     - [bagging.ipynb](MachineLearning/Ensembles/bagging.ipynb)
     - [boosting.ipynb](MachineLearning/Ensembles/boosting.ipynb)
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+| Ensemble Machine Learning: Bagging & Boosting | 2019-10-24 | [youtu.be/xI-XdP2FLis](https://youtu.be/xI-XdP2FLis] |
+| Machine Learning with Ensembles: Bagging & Boosting | 2020-09-21 | [youtu.be/nIYnh6uAun0](https://youtu.be/nIYnh6uAun0] |
+| Ensemble Methods in Machine Learning: Bagging & Boosting | 2019-11-08 | [youtu.be/j1B1k1PZ8Wg](https://youtu.be/j1B1k1PZ8Wg] |
+
 
 
 ## Module 5 Section 36 - Support Vector Machines
